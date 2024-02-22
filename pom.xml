@@ -132,7 +132,11 @@
 			<groupId>sc.fiji</groupId>
 			<artifactId>TrackMate-Weka</artifactId>
 		</dependency>
-
+		<dependency>
+			<groupId>sc.fiji</groupId>
+			<artifactId>trackmate-lacss</artifactId>
+			<version>0.2.0</version>
+		</dependency>
 		<!-- Cell Tracking Challenge dependencies -->
 		<dependency>
 			<groupId>net.celltrackingchallenge</groupId>

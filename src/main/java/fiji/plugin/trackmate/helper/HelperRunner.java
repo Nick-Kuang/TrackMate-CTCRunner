@@ -56,7 +56,7 @@ public class HelperRunner implements Runnable, Cancelable
 
 	private final ParameterSweepModel model;
 
-	private int targetChannel;
+	private int targetChannel = 1;
 
 	private final String savePath;
 
